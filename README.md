@@ -15,7 +15,6 @@
 - 💼 9 años de experiencia desarrollando aplicaciones web empresariales, ERPs y apps móviles.
 - 🔭 Actualmente: Full Stack Developer en **DSG** (ERP en PHP, VPS y app móvil React Native + Expo / Laravel).
 - 🧩 Me gusta la arquitectura limpia: componentes reutilizables, capas bien definidas y flujos Git con code review.
-- 📍 Ilopango, San Salvador, El Salvador.
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tecnologías
 
