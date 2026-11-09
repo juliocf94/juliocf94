@@ -19,7 +19,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Tecnologías
 
 <p align="center">
-  <img src="[https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,mysql,jquery,bootstrap,tailwind,aws,docker,linux,git,github,gitlab,postman&perline=10](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,mysql,jquery,bootstrap,tailwind,aws,docker,linux,git,github,gitlab,postman,python&perline=10)" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,php,laravel,mysql,jquery,bootstrap,tailwind,aws,docker,linux,git,github,gitlab,postman,python&perline=10" />
 </p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> Estadísticas
